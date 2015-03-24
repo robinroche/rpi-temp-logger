@@ -58,7 +58,8 @@ overestimated temperatures. This could be avoided by hiding the sensor from dire
 
 ### Limitations
 
-Note that due to instabilities in the Wifi connection, I am not using this system anymore. An Ethernet connection would probably be better.
+- Due to instabilities in the Wifi connection, I am not using this system anymore. An Ethernet connection would probably be better.
+- The system is clearly not well secured. Use it a your own risk.
 
 ### Contact
 
