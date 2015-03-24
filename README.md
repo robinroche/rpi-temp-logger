@@ -27,7 +27,7 @@ The system works as follows:
 - The temperature sensor measures the temperature every 10 minutes,
 - The RPi acquires this data and connects to this webpage,
 - The data is added to a database table,
-- The data is then retrieved and displayed in the graph below using [Highcharts](http://www.highcharts.com/).
+- The data is then retrieved and displayed in a graph using [Highcharts](http://www.highcharts.com/).
 
 ![System architecture](http://robinroche.com/webpage/images/temp_log_archi.PNG)
 
